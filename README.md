@@ -33,7 +33,11 @@ df_clean = alpha_Feat_Selector(df, 'cleaned_data.csv', 'Close')
 
 Behold the power of visual insights:
 
+![DashBoard](./images/dashboard.png "Here the dashboard that show your features")
+
+
 📚 Installation
+
 
 ```python
 
@@ -43,7 +47,8 @@ pip install pandas numpy matplotlib seaborn sklearn statsmodels tqdm
 
 🤖 How to Use
 
-Just a few steps and you're set to go! Check out our detailed usage guide.
+Just a few steps and you're set to go! Check out our detailed usage guide in all notebooks.
+
 👐 Contributing
 
 Join the adventure! Contributions, issues, and feature requests are all welcome. Let's make alpha_Feat_Selector even more awesome! 🌟
