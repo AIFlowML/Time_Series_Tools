@@ -18,6 +18,7 @@ Diving into time series data? Struggling with feature selection? Say no more! `a
 ## 🚀 Quick Start
 
 ```python
+
 from alpha_feat_selector import alpha_Feat_Selector
 
 # Load your DataFrame
@@ -26,13 +27,19 @@ from alpha_feat_selector import alpha_Feat_Selector
 # Unleash the magic!
 df_clean = alpha_Feat_Selector(df, 'cleaned_data.csv', 'Close')
 
+```
+
 📊 Visualization Dashboard
 
 Behold the power of visual insights:
 
 📚 Installation
 
+```python
+
 pip install pandas numpy matplotlib seaborn sklearn statsmodels tqdm
+
+```
 
 🤖 How to Use
 
@@ -49,7 +56,7 @@ Project Link: [https://github.com/your_username/alpha_Feat_Selector](https://git
 
 🙌 Acknowledgements
 
-    Shoutout to the Python community!
-    Special thanks to contributors and users like you.
+Shoutout to the Python community!
+Special thanks to contributors and users like you.
 
 Give a ⭐️ if this project helped you! Spread the word! 📢
